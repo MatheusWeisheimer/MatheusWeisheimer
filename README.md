@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Matheus Weisheimer!<br>Desenvolvedor Front-end</h1>
 
-<div style="display: inline_block">
+<div align="center">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
